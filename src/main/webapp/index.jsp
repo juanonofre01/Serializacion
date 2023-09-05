@@ -95,7 +95,7 @@
     
     <ul>
         <li class="button-box">
-            <a href="listarVideos.jsp">Lista de Videos</a>
+            <a href="SvVideo">Lista de Videos</a>
         </li>
     </ul>
     <h1>Sistema de reproductor de videos</h1>

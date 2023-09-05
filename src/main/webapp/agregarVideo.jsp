@@ -124,8 +124,16 @@
         <input type="text" name="anio"><br>
         
         <label for="categoria" > Categoria: </label>
-        <input type="text" name="categoria"><br>
-        
+        <select type="text" name="categoria"><br>
+            <option value="Hip-Hop">Hip-Hop</option>
+            <option value="Rock">Rock</option>
+            <option value="Electronica">Electronica</option>
+            <option value="Pop">Pop</option>
+            <option value="Salsa">Salsa</option>
+            <option value="Otra">Otra</option>
+        </select>
+        <br>
+        <br>
         <label for="url" > Url: </label>
         <input type="text" name="url"><br>
         
